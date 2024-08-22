@@ -1,0 +1,5 @@
+GoAndDo文件夹为工程文件夹
+GoAndDo压缩包为工程导出压缩包
+GoAndDoKeyStore为release版APK的密钥库
+GoAndDoEncryptedKeyExportPath为bundle导出时，需要在google key上发布的勾选项
+最后更新于2024.8.19
